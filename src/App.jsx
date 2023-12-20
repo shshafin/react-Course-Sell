@@ -18,25 +18,21 @@ function App() {
     // price
     const totalPrice = prices + price;
 
+    // course credit hour
+    const reduceHours = hours - credit;
     // credit
     const totalCredit = credits + credit;
     if (totalCredit <= 20) {
-      setCredits(totalCredit);
-
       // course name
       if (courseName.includes(name)) {
         setErrorMessage(`${name} `);
       } else {
         setCourseName(newCourseName);
-        setErrorMessage("");
+        setCredits(totalCredit);
+        setPrices(totalPrice);
+        setHours(reduceHours);
+        setErrorMessage("  ");
       }
-
-      // price
-      setPrices(totalPrice);
-
-      // course credit hour
-      const reduceHours = hours - credit;
-      setHours(reduceHours);
     }
   };
 
