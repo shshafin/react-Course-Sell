@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://i.imgur.com/GtCHDK6.png",
+    "course_name": "Introduction to C Programming",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 15000,
+    "credit_hour": 1
+  },
+  {
+    "image": "https://i.imgur.com/Ggpe3hj.png",
+    "course_name": "Introduction to Algorithms",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 15000,
+    "credit_hour": 2
+  },
+  {
+    "image": "https://i.imgur.com/0HE77Tq.png",
+    "course_name": "Introduction to C++ for DSA",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "credit_hour": 10
+  },
+  {
+    "image": "https://i.imgur.com/UCJPfSs.png",
+    "course_name": "Basic Data Structures",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit_hour": 5
+  },
+  {
+    "image": "https://i.imgur.com/IAqhjnB.png",
+    "course_name": "Introduction to OOP Python",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit_hour": 5
+  },
+  {
+    "image": "https://i.imgur.com/Ozbtw0Q.png",
+    "course_name": "Software Engineering",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "credit_hour": 2
+  },
+  {
+    "image": "https://i.imgur.com/PtGKHox.png",
+    "course_name": "AWS, Cloud Computing",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit_hour": 5
+  },
+  {
+    "image": "https://i.imgur.com/7ES5mBy.png",
+    "course_name": "Database (MySQL)",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit_hour": 5
+  },
+  {
+    "image": "https://i.imgur.com/b9afwVV.png",
+    "course_name": "Problem-Solving Part",
+    "course_title": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "credit_hour": 2
+  }
+]
